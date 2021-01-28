@@ -1,0 +1,98 @@
+first issue
+- get large numbers of old mother cells
+- single cell analysis
+- evolve long-lived mothers screen design?
+- genetic screens for lifespan in overexpression / mutant strains
+
+- healthy cell metrics
+  - makes the same density of ATP as a normal cell
+  - eats the same total amount of energy per second as a normal cell
+  - turns over protein at the same rate as a normal cell
+    - are there any cells that don't do this but are still healthy?
+    - random q: what % of the cell is dedicated to turning over / producing protein?
+
+
+- damage types
+  - probably an issue
+    - % of proteins that are functional
+    - # of proteins that are functional
+    - decreased mitochondrial membrane potential
+      - how bad is this, is the mitochondria still able to function in older age
+    - mitochondrial fragmentation
+      - is this correlated to decreased mitochondrial efficiency?
+      - is this bad?
+    - metabolism changes
+      - decreased glycolysis
+	- by how much, could be bad
+    - increased ROS
+      - by how much
+      - what other bad things increase?
+      - do you see corresponding increase in damaged molecules?
+    - more protein aggregation
+      - HSP104 used as an example for carbonyl-damage associated protein aggregates
+      - does the toal amount of protein aggregation in the cell change over time?
+      - does it obviously get in the way of anything?
+
+- not sure if an issue or helping
+    - some genes change in expression / less histones
+      - which genes change the most?
+      - do all genes increase in expression?
+      - if you artificially increase the expression of all genes, would you expect this to be bad?
+      - does this just happen from less histones?
+      
+  - not clear if an issue
+    - cell size increases
+      - does it always increase?
+      - would be an issue if didn't have a corresponding increase in energy flow through the cell
+      - is there an optimal yeast size? or are yeast fine at multiple size?
+      - what % of genes in the genome control yeast size?
+    - decreased resistance to stress
+      - mutagen
+      - other stress
+      - increased resistance to UV - what does thi smean?
+    - vacuolar pH increases
+    - oxidative protein damage
+    - increased glucose storage
+      - does anything change other than gluconeogenesis?
+	- does glucose flux in stay the same but glycolysis changes?
+    - ERCs
+      - What do these hurt?
+      - How much energy do these take up?
+      - How much space do these take up?
+      - Does having a lot of these change anthing about ribosome assembly or dynamics in a bad way?
+    - Bud scars
+    - Big nucleolus
+      - Is this bad? Does this mean more protein is made?
+      - Does this still happen if the cell does not get bigger? 
+      - Does the % of nucleolus to cell increase?
+    - more mtDNA
+      - does this mean mitochondria?
+      - does this still happen if fix membrane potential?
+    
+
+- might tell you how healthy a cell is
+  - they get less good at sporulating
+  - random budding pattern with age
+  - mating frequency decreases
+  - daughters live less long
+  - decreased pheromone responsex
+
+- stuff that happens early
+  - mitochondrial dysfunction
+
+- stuff right before death
+  - size dramatically increases in last ~3 divisions
+  - daughter cells of old mother sometimes larger than mother
+  - vacuole doesn't re-form after fragmenting
+  - something bursts / stop seeing fluorescent protein expression
+  - stop seeing complete division / see ellpisoid daughters
+    - do you ever see ellipsoid daughters even when this hasn't happened?
+
+
+
+Questions
+- What organelles increase with age? Which decrease?
+- Do we care if they increase or decrease?
+  - Do larger and smaller yeast mutants with similar lifespan exist?
+- What is mitochondrial redox potential?
+- Why is ROS characterized as bad, and what other things have that property?
