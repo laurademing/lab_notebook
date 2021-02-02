@@ -1,0 +1,36 @@
+Technical problems wrt making an immortal yeast:
+
+EVOLVE
+
+Set up a system where long-lived yeast are selected for over multiple generations. 
+
+Unknowns: 
+Experiment design (MM had idea for selecting chronologically, then weeding out slow-growing daughters every cycle)
+Are there other good ways to do this?
+If the experiment design involves microfluidics, cost and difficulty to set up
+Potential fast and cheap device to set up to get a feel for the system - https://www.sciencedirect.com/science/article/pii/S2468501119300069
+How many cycles of directed evolution would we guess this would require, and how long would that take?
+Yeast genome is ~12M bp, mutation rate is (10^-10), ~10^9 yeast per 1 ml of culture
+Cost for whole-genome sequencing given # of cycles
+
+BIOLOGY
+
+Try to use sporulation biology to regenerate yeast
+
+Unknowns: 
+Best next step for this experiment - expressing Ndt80 at different levels and time periods?
+
+ENGINEER
+
+(prob not worth doing in tandem)
+Try to specifically reverse the accumulation of different types of damage in yeast
+
+Unknowns:
+What damage, by how much to reverse
+
+EVALUATE
+
+Define success criteria for the experiment
+
+Unknowns:
+How should this be defined?
