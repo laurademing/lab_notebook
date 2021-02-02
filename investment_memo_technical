@@ -35,7 +35,7 @@ Are there other explanations for the experimental results observed?
 - If sporulation efficiency decreases with age (~3x, I think), could this experiment be selecting for the healthiest cells?
 - Should we expect non-Ndt80 proteins to also be required for full regeneration?
 
-STRATEGY 3: ENGINEER _(this is more of a backup strategy)_
+### STRATEGY 3: ENGINEER _(this is more of a backup strategy)_
 
 Try to specifically reverse the accumulation of different types of damage in yeast
 
